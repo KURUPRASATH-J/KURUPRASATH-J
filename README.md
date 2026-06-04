@@ -76,10 +76,6 @@ An IoT-based smart waste management solution using ESP32, sensors, LCD display, 
 
 A modern real-time chat platform featuring responsive UI, authentication, and seamless communication experience.
 
-### 🎬 Movie Recommendation App
-
-A recommendation platform that helps users discover movies through a modern and interactive interface.
-
 ### 📱 Android Applications
 
 Android applications focused on user-friendly design, Firebase integration, and practical real-world use cases.
