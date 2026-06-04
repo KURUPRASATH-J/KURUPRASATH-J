@@ -96,17 +96,21 @@ Android applications focused on user-friendly design, Firebase integration, and 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KURUPRASATH-J&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KURUPRASATH-J&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KURUPRASATH-J&theme=tokyonight" />
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KURUPRASATH-J/KURUPRASATH-J/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KURUPRASATH-J/KURUPRASATH-J/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KURUPRASATH-J/KURUPRASATH-J/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 ## 🎯 2026 Goals
 
 * Build Production-Ready Full Stack Applications
